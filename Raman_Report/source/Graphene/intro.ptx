@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Graphene </title>
+
+  <p>Graphene can be obtained by the micro cleavege of the graphite crystal. The current interest
+    in graphene can be attributed to
+ three main reasons. First, its electron transport is described
+ by the Dirac equation and this allows access to quantum
+ electrodynamics in a simple condensed matter experiment
+ . Second, the scalability of graphene devices to nano
+dimensions makes it a promising candidate for
+ applications, because of its ballistic transport at room
+ temperature combined with chemical and mechanical
+ stability. Remarkable properties extend to bilayer and
+ few-layers graphene. Third, various forms of
+ graphite, nanotubes, buckyballs, and others can all be
+ viewed as derivatives of graphene </p>
+
+<p>
+  Graphene is a remarkable two-dimensional material consisting of a single layer of carbon atoms arranged in a hexagonal
+  lattice. Discovered in 2004 by physicists Andre Geim and Konstantin Novoselov, graphene has since become a subject of
+  intense scientific research due to its exceptional properties. It is the building block of other carbon-based materials
+  such as graphite, carbon nanotubes, and fullerenes, and is often referred to as the "wonder material" because of its
+  outstanding characteristics.</p>
+
+<p>Graphene exhibits extraordinary electrical conductivity, mechanical strength, thermal conductivity, and optical
+  transparency, making it a highly versatile material. Its unique structure, where each carbon atom is covalently bonded
+  to three neighboring carbon atoms, contributes to its remarkable stability and performance. This material has opened
+  up new possibilities in fields ranging from electronics and energy storage to biomedicine and materials science. As a
+  result, graphene is considered a revolutionary material with the potential to significantly impact numerous industries
+  in the coming years.
+</p>
+
+  <p>
+
+  </p>
+</section>

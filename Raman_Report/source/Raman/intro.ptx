@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="intro_raman" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to Raman Spectroscopy </title>
+
+
+
+  <p>
+  This is method based on the non-elastic scattering of the photons on intraction with sample. There are two type of scattering
+    happen in molecules. First is elastic <term> Rayleigh Scattering,</term> second is <term>Raman Scattering.</term>
+  </p>
+  <p>The main difference between in these two scattering is wavelength of absorbed and radiated radiation. </p>
+  <p>In <term>Rayleigh Scattering</term>, the wavelength of the scattered radiation remains the same as the incident wavelength.
+    <me>\lambda_{incident} = \lambda_{radiate}</me>
+  </p>
+
+  <p>In Raman Scattering, the wavelength of the scattered radiation remains the different from the incident wavelength.
+    So there are two case forms.<linebreak/>
+    First case is when the wavelength of scattered radiation is less than the absorbed it is
+    known as <term>Anti-Stokes Raman Scattering.</term>
+    <me>\lambda_{\text{incident}} &lt; \lambda_{\text{Anti Stoke}}</me>
+    Second case is when the wavelength of scattered radiation is grater than the absorbed it is known as <term>Stoke Raman
+    Scattering.</term>
+    <me>\lambda_{\text{incident}} &gt; \lambda_{\text{Stoke}}</me>
+  </p>
+</section>

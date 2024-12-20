@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="theory_raman" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Theory Raman Spectroscopy </title>
+
+  <p>
+
+      For a molecule to exhibit a Raman effect, there must be a change in its electric dipole-electric dipole
+      polarizability with respect to the vibrational coordinate corresponding to the rovibronic state. The intensity
+      of the Raman scattering is proportional to this polarizability change. Therefore, the Raman spectrum (scattering
+      intensity as a function of the frequency shifts) depends on the rovibronic states of the molecule.
+  </p>
+
+  <p>
+      In Raman Spectroscopy, sample is illuminated under a light source from that electron of the molecules is excited
+      to a virtual state and come back to its state immediate after the excitation by radiating the photon. Most of the
+      time the absorbed and radiated energy is same but 1 in 10 million case the energy is not same and this is called
+      Raman effect and the difference in energy is called Raman Shift.
+  </p>
+
+    <p>
+        <term>Virtual State</term> in quantum physics, a virtual state is a very short-lived, unobservable quantum state.
+        In many quantum processes a virtual state is an intermediate state, sometimes described as "imaginary" in a
+        multistep process that mediates otherwise forbidden transitions. Since virtual states are not eigenfunctions of
+        anything, normal parameters such as occupation, energy and lifetime need to be qualified. No measurement of a
+        system will show one to be occupied, but they still have lifetimes derived from uncertainty relations.
+    </p>
+
+    <p>
+        Raman effect is based on the interation of the electron cloud of the atom with the external electric filed of the
+        laser.
+    </p>
+</section>

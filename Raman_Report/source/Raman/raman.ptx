@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-raman-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Raman Spectroscopy</title>
+
+  <introduction>
+ <p>
+   Raman spectroscopy is a spectroscopic technique typically used to determine vibrational modes of molecules, although
+   rotational and other low-frequency modes of systems may also be observed. Raman spectroscopy is commonly used in
+   chemistry to provide a structural fingerprint by which molecules can be identified.
+ </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="intro.ptx" />
+    <xi:include href="theory.ptx" />
+ <xi:include href="graphene_raman.ptx" />
+
+</chapter>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Graphene</title>
+
+  <introduction>
+    <p> Graphene, a single layer of carbon atoms arranged in a hexagonal lattice, has garnered significant attention due to its remarkable properties, including exceptional electrical conductivity, mechanical strength, and flexibility. Discovered in 2004, this two-dimensional material has revolutionized research across various fields, from electronics to materials science. As a versatile and promising material, graphene has the potential to transform technologies in energy storage, sensors, and beyond.</p>
+
+<p>This chapter introduces the fundamental properties of graphene, its wide range of applications, and the various methods used to produce it. Special attention is given to the relationship between graphene and Highly Ordered Pyrolytic Graphite (HOPG), a material often used as the starting point for graphene exfoliation. Understanding these aspects provides the necessary background for exploring the process of HOPG exfoliation in subsequent chapters, which aims to produce high-quality graphene for various applications. </p>
+
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="intro.ptx" />
+  <xi:include href="properties.ptx" />
+
+</chapter>

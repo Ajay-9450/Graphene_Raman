@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="graphene_raman" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Introduction to Raman Spectroscopy</title>
+    <p>
+        To preserve the flake from the damage we constrain the power of the laser to ~4 to ~0.04 mW incident power.
+    </p>
+    <subsection>
+        <title>D peak</title>
+        <p>
+
+        </p>
+    </subsection>
+    <subsection>
+        <title>G peak</title>
+        <p>
+            <ol>
+                <li>Position of the <term>G peak</term> is near
+                    <term>~1580
+                        <m>cm^-1</m>
+                    </term>
+                    .
+                </li>
+                <li>The G peak is due to the doubly degenerate zone center <m>E_{2g}</m> mode
+                </li>
+            </ol>
+
+        </p>
+        <p>
+            <term>What is <m>E_{2g}</m> mode?
+            </term>
+
+
+                <p>
+                    <ol>
+                        <li>The <m>E_{2g}</m> mode mode is a doubly degenerate phonon mode associated with the in-plane
+                            vibrations of carbon atoms in the graphene lattice.</li>
+                        <li>In this mode, the carbon atoms vibrate in opposite directions within the plane of the
+                            hexagonal lattice, maintaining the lattice symmetry.
+                        </li>
+                    </ol>
+                </p>
+
+        </p>
+
+
+    </subsection>
+    <subsection>
+        <title>G' or 2D peak</title>
+        <p>
+            <ol>
+                <li>Position of the <term>G' peak</term> is near <term>~2700 <m>cm^-1</m></term></li>
+            </ol>
+        </p>
+    </subsection>
+</section>
